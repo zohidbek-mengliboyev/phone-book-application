@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "THqrBuiR0TR3Z8T3TTVMp4HrvxBYVoeqruy/gCAIw2G+w5VMFGP5MfTUvw9iLnzE69/e2zv15VDIQ+Wc/v/aMg==",
+  "dgSpecHash": "PWWGLvU3R6xgdnfnqaWCYx+ycWlM6lKrrIrYZglR8cmqZjP6y3/s14gizQxibby7cDlCcsB9rBwGNfOHhlc+Ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uzriv\\source\\repos\\PhoneBook\\PhoneBook\\PhoneBook.csproj",
+  "projectFilePath": "C:\\Users\\uzriv\\Source\\Repos\\phone-book-application\\Backend\\PhoneBook\\PhoneBook\\PhoneBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uzriv\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\uzriv\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
