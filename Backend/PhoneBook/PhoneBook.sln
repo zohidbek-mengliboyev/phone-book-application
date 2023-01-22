@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook", "PhoneBook\PhoneBook.csproj", "{BCD75ACE-9D23-415C-95A2-F15EA1A97F8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBook.API", "PhoneBook\PhoneBook.API.csproj", "{BCD75ACE-9D23-415C-95A2-F15EA1A97F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook.Application", "PhoneBook.Application\PhoneBook.Application.csproj", "{684030B7-6768-41E4-A9C6-9A17EE4D793A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook.Domain", "PhoneBook.Domain\PhoneBook.Domain.csproj", "{F0E050CF-8986-4D54-91CF-01CEFD8FD161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook.Infrastructure", "PhoneBook.Infrastructure\PhoneBook.Infrastructure.csproj", "{43265680-C4E5-44B3-B800-4942DF05AE7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{BCD75ACE-9D23-415C-95A2-F15EA1A97F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCD75ACE-9D23-415C-95A2-F15EA1A97F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCD75ACE-9D23-415C-95A2-F15EA1A97F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684030B7-6768-41E4-A9C6-9A17EE4D793A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684030B7-6768-41E4-A9C6-9A17EE4D793A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684030B7-6768-41E4-A9C6-9A17EE4D793A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684030B7-6768-41E4-A9C6-9A17EE4D793A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E050CF-8986-4D54-91CF-01CEFD8FD161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E050CF-8986-4D54-91CF-01CEFD8FD161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E050CF-8986-4D54-91CF-01CEFD8FD161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E050CF-8986-4D54-91CF-01CEFD8FD161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43265680-C4E5-44B3-B800-4942DF05AE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43265680-C4E5-44B3-B800-4942DF05AE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43265680-C4E5-44B3-B800-4942DF05AE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43265680-C4E5-44B3-B800-4942DF05AE7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
