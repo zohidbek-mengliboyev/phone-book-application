@@ -1,6 +1,6 @@
 ﻿namespace PhoneBook.Application.ContactService
 {
-    public class ContactService
+    public class ContactService : IContactService
     {
     }
 }

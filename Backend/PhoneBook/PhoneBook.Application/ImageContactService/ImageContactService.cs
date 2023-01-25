@@ -1,6 +1,6 @@
 ﻿namespace PhoneBook.Application.ImageContactService
 {
-    public class ImageContactService
+    public class ImageContactService : IContactImageService
     {
     }
 }

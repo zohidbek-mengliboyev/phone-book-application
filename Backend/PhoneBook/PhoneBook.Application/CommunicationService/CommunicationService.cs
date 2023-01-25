@@ -1,6 +1,6 @@
 ﻿namespace PhoneBook.Application.CommunicationService
 {
-    public class CommunicationService
+    public class CommunicationService : ICommunicationService
     {
     }
 }

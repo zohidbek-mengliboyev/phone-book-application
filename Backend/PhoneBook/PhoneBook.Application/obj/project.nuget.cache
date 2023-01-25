@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "lq8n44Ukw3s5Tmb3WsccK7OwH3C1frkK0oROdHKocccm73D2NMfeXnDCz4T28LFm8etP8U+wusJ6Os3bEno4aQ==",
+  "dgSpecHash": "zKQHIrlvePVVKT0eRq+8FWHwfbCA8vFiMmIijt0O+7OWMPtINVjSEbBsdQVSCjedyOvUYlyO5gIf1s4PBzayWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\uzriv\\Source\\Repos\\phone-book-application\\Backend\\PhoneBook\\PhoneBook.Application\\PhoneBook.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\uzriv\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\uzriv\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\uzriv\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\uzriv\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\uzriv\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\uzriv\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\uzriv\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\uzriv\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\uzriv\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
