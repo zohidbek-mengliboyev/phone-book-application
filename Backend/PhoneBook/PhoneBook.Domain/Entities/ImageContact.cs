@@ -1,8 +1,7 @@
 ﻿namespace PhoneBook.Domain.Entities
 {
-    public class ImageContact
+    public class ImageContact : EntityBase
     {
-        public int Id { get; set; }
         public string ContentPath { get; set; }
         public string FileName { get; set; }
         public string ContentType { get; set; }

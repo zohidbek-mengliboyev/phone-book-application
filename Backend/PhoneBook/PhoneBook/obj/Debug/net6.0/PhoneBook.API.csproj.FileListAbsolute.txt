@@ -1,3 +1,9 @@
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.csproj.AssemblyReference.cache
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.AssemblyInfoInputs.cache
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.AssemblyInfo.cs
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.csproj.CoreCompileInputs.cache
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\appsettings.json
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.API.exe
@@ -5,6 +11,7 @@ C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\b
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.API.runtimeconfig.json
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.API.dll
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.API.pdb
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -33,6 +40,13 @@ C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\b
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Serilog.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Serilog.Extensions.Logging.File.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Serilog.Sinks.Async.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Serilog.Sinks.RollingFile.dll
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -62,13 +76,7 @@ C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\b
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.Application.pdb
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.Domain.pdb
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.Infrastructure.pdb
-C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.csproj.AssemblyReference.cache
-C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.AssemblyInfoInputs.cache
-C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.AssemblyInfo.cs
-C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.csproj.CoreCompileInputs.cache
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook\obj\Debug\net6.0\scopedcss\bundle\PhoneBook.API.styles.css

@@ -54,7 +54,7 @@ namespace PhoneBook.Infrastructure.Repositories
             return await _dbContext.SaveChangesAsync();
         }
 
-        public async Task<T> FindAsync(int id)
+        public async Task<T> FindAsync(Guid id)
          => await _dbContext.Set<T>().FindAsync(id);
     }
 }
