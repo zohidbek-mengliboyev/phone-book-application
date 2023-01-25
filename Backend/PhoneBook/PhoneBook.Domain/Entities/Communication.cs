@@ -1,8 +1,7 @@
 ﻿namespace PhoneBook.Domain.Entities
 {
-    public class Communication
+    public class Communication : EntityBase
     {
-        public int Id { get; set; }
         public InformationType InformationType { get; set; }
         public string? InformationContent { get; set; }
 

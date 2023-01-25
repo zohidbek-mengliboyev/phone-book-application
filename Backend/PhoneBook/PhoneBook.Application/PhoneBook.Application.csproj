@@ -14,6 +14,7 @@
     <Folder Include="Mapping\" />
     <Folder Include="ImageContactService\" />
     <Folder Include="ContactService\" />
+    <Folder Include="CommunicationService\" />
   </ItemGroup>
 
 </Project>

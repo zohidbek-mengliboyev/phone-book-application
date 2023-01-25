@@ -1,8 +1,7 @@
 ﻿namespace PhoneBook.Domain.Entities
 {
-    public class Contact
+    public class Contact : EntityBase
     {
-        public Guid Id { get; set; }
         public string Name { get; set; }
         public int ImageContactId { get; set; }
         public string Surname { get; set; }
