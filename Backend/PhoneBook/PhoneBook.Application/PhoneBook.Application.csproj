@@ -7,14 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PhoneBook.Infrastructure\PhoneBook.Infrastructure.csproj" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Mapping\" />
-    <Folder Include="ImageContactService\" />
-    <Folder Include="ContactService\" />
-    <Folder Include="CommunicationService\" />
+    <ProjectReference Include="..\PhoneBook.Infrastructure\PhoneBook.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
