@@ -10,11 +10,4 @@
     <ProjectReference Include="..\PhoneBook.Infrastructure\PhoneBook.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Mapping\" />
-    <Folder Include="ImageContactService\" />
-    <Folder Include="ContactService\" />
-    <Folder Include="CommunicationService\" />
-  </ItemGroup>
-
 </Project>
