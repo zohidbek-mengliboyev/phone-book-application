@@ -1,0 +1,17 @@
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Application.deps.json
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Infrastructure.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Infrastructure.pdb
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.csproj.AssemblyReference.cache
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.AssemblyInfoInputs.cache
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.AssemblyInfo.cs
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.csproj.CopyComplete
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\refint\PhoneBook.Application.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\ref\PhoneBook.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Domain\bin\Debug\net6.0\PhoneBook.Domain.deps.json
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Domain\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Domain\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.csproj.AssemblyReference.cache
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.AssemblyInfoInputs.cache
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.AssemblyInfo.cs
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\refint\PhoneBook.Domain.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\ref\PhoneBook.Domain.dll

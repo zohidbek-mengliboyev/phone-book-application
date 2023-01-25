@@ -1,0 +1,15 @@
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\bin\Debug\net6.0\PhoneBook.Infrastructure.deps.json
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\bin\Debug\net6.0\PhoneBook.Infrastructure.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\bin\Debug\net6.0\PhoneBook.Infrastructure.pdb
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net6.0\PhoneBook.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net6.0\PhoneBook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net6.0\PhoneBook.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net6.0\PhoneBook.Infrastructure.AssemblyInfo.cs
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net6.0\PhoneBook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net6.0\PhoneBook.Infrastructure.csproj.CopyComplete
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net6.0\PhoneBook.Infrastructure.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net6.0\refint\PhoneBook.Infrastructure.dll
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net6.0\PhoneBook.Infrastructure.pdb
+C:\Users\uzriv\Source\Repos\phone-book-application\Backend\PhoneBook\PhoneBook.Infrastructure\obj\Debug\net6.0\ref\PhoneBook.Infrastructure.dll
