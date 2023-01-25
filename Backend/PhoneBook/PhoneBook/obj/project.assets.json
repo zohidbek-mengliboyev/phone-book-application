@@ -1147,7 +1147,10 @@
         },
         "runtime": {
           "bin/placeholder/PhoneBook.Application.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "PhoneBook.Domain/1.0.0": {
         "type": "project",

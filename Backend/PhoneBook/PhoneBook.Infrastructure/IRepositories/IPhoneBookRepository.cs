@@ -10,6 +10,6 @@ namespace PhoneBook.Infrastructure.IRepositories
         Task<T> AddAsync<T>(T entity) where T : EntityBase;
         Task<int> UpdateAsync<T>(T entity) where T : EntityBase;
         Task<IReadOnlyList<T>> GetAllAsync<T>() where T : EntityBase;
-        Task<T> FindAsync(int id);
+        Task<T> FindAsync(Guid id);
     }
 }
